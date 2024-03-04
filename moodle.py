@@ -10,7 +10,7 @@ GREEN = '\033[92m'
 RESET = '\033[0m'
 
 # 课程页面的URL
-course_page_url = 'https://selearning.nju.edu.cn/course/view.php?id=72'
+course_page_url = 'https://selearning.nju.edu.cn/course/view.php?id=164'
 
 # 假设你已经有了代理设置
 # proxies = {
@@ -20,7 +20,7 @@ course_page_url = 'https://selearning.nju.edu.cn/course/view.php?id=72'
 
 cookies = {
     # 应该创个.env存的，懒得写了
-    "MoodleSession": "5c81tiktsueu5fbti0a66o9oki",
+    "MoodleSession": "8lv40jjuvj0mdi4urv2srvbbnp",
 }
 
 # 开始会话
